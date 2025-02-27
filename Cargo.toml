@@ -1,0 +1,14 @@
+[package]
+name = "longest-subsequence-with-decreasing-adjacent-difference"
+version = "0.1.0"
+edition = "2021"
+authors = ["aliezzahn <aliezzahn@gmail.com>"]
+description = "A Rust library to find the length of the longest subsequence with decreasing adjacent differences."
+repository = "https://github.com/aliezzahn/longest-subsequence-with-decreasing-adjacent-difference"
+license = "MIT"
+keywords = ["subsequence", "dynamic-programming", "algorithm"]
+categories = ["algorithms"]
+
+[dependencies]
+
+[dev-dependencies]
